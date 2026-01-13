@@ -205,3 +205,5 @@ fn clear_console() {
 }
 
 // End of the basic commands
+
+// For other commands I will use another files.
